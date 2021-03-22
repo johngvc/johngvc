@@ -26,7 +26,7 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-<p align="left"> 
+<p align="center"> 
 
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 
@@ -36,7 +36,7 @@
 </p>
 
 <h3 align="left">Front-end development:</h3>
-<p align="left"> 
+<p align="center"> 
 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 
@@ -50,7 +50,7 @@
 </p>
 
 <h3 align="left">Back-end development/frameworks:</h3>
-<p align="left"> 
+<p align="center"> 
 
 <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
 
@@ -61,7 +61,7 @@
 </p>
 
 <h3 align="left">DevOps:</h3>
-<p align="left"> 
+<p align="center"> 
 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 
@@ -74,7 +74,7 @@
 </p>
 
 <h3 align="left">Tools:</h3>
-<p align="left">
+<p align="center">
 
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 
@@ -89,7 +89,7 @@
 </p>
 
 <h3 align="left">Game Development:</h3>
-<p align="left">
+<p align="center">
 
 <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 
