@@ -42,7 +42,7 @@
 <h3 align="left">Back-end development/frameworks:</h3>
 <p align="center"> 
 
-<a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 
 </p>
 
@@ -64,7 +64,7 @@
 <h3 align="left">Game Development:</h3>
 <p align="center">
 
-<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a><a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a><a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a><a href="https://3dcoat.com/" target="_blank"> <img src="https://3dcoat.com/fileadmin/images/about/About_us.png" alt="3d Coat" width="40" height="40"/> </a><a href="http://pixologic.com/features/about-zbrush.php" target="_blank"> <img src="http://pixologic.com/features/img/logo-horz.png" alt="zBrush" width="40" height="40"/> </a> 
+<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a><a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a><a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a><a href="https://3dcoat.com/" target="_blank"> <img src="https://yt3.ggpht.com/ytc/AAUvwnhxLK8jEYUI5s04jtd9tlvRuImINHa9l4AAEfJ5PQ=s900-c-k-c0x00ffffff-no-rj" alt="3d Coat" width="40" height="40"/> </a><a href="http://pixologic.com/features/about-zbrush.php" target="_blank"> <img src="https://seeklogo.com/images/Z/ZBrush-logo-43D6324DC8-seeklogo.com.png" alt="zBrush" width="40" height="40"/> </a> 
 
 </p>
 
