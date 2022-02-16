@@ -49,7 +49,7 @@
 <h3 align="left">AWS:</h3>
 <p align="center"> 
 
-<a href="https://heroku.com" target="_blank"> <img src="aws_imgs/Arch_Amazon-CloudFront_16.png" alt="heroku" width="40" height="40"/> </a>
+<a href="https://heroku.com" target="_blank"> <img src="aws_imgs/Arch_Amazon-CloudFront_64.png" alt="heroku" width="40" height="40"/> </a>
 
 
 </p>
