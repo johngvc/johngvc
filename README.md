@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/johngvc](https://github.com/johngvc)
 
-- 💬 Ask me about **Ruby on Rails | Vue js**
+- 💬 Ask me about **AWS | Ruby on Rails | Docker | Vue js  | Code Reviews | Design Patterns | MVC | OOP**
 
 - 📫 How to reach me **johngvc@gmail.com**
 
@@ -25,7 +25,7 @@
 <a href="https://www.leetcode.com/johngvc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="johngvc" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Programming Languages:</h3>
 <p align="center"> 
 
 <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
