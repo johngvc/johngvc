@@ -49,7 +49,7 @@
 <h3 align="left">AWS:</h3>
 <p align="center"> 
 
-<a href="https://heroku.com" target="_blank"> <img src="aws_imgs/Arch_Amazon-CloudFront_64.png" alt="heroku" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/cloudfront/" target="_blank"> <img src="aws_imgs/Arch_Amazon-CloudFront_64.png" alt="heroku" width="40" height="40"/> </a><a href="https://aws.amazon.com/ec2/" target="_blank"> <img src="aws_imgs/Arch_Amazon-EC2_64.png" alt="heroku" width="40" height="40"/> </a><a href="https://aws.amazon.com/ecr/" target="_blank"> <img src="aws_imgs/Arch_Amazon-Elastic-Container-Registry_64.png" alt="heroku" width="40" height="40"/> </a><a href="https://aws.amazon.com/ecs/" target="_blank"> <img src="aws_imgs/Arch_Amazon-Elastic-Container-Service_64.png" alt="heroku" width="40" height="40"/> </a><a href="https://aws.amazon.com/lightsail/" target="_blank"> <img src="aws_imgs/Arch_Amazon-Lightsail_64.png" alt="heroku" width="40" height="40"/> </a><a href="https://aws.amazon.com/rds/" target="_blank"> <img src="aws_imgs/Arch_Amazon-RDS_64.png" alt="heroku" width="40" height="40"/> </a><a href="https://aws.amazon.com/s3/" target="_blank"> <img src="aws_imgs/Arch_Amazon-Simple-Storage-Service_64.png" alt="heroku" width="40" height="40"/> </a><a href="https://aws.amazon.com/pt/vpc/" target="_blank"> <img src="aws_imgs/Arch_Amazon-Virtual-Private-Cloud_64.png" alt="heroku" width="40" height="40"/> </a><a href="https://aws.amazon.com/codedeploy/" target="_blank"> <img src="aws_imgs/Arch_AWS-CodeDeploy_64.png" alt="heroku" width="40" height="40"/> </a><a href="https://aws.amazon.com/fargate/" target="_blank"> <img src="aws_imgs/Arch_AWS-Fargate_64.png" alt="heroku" width="40" height="40"/> </a>
 
 
 </p>
