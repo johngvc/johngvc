@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **johngvc@gmail.com**
 
-- 📄 Know about my experiences [Download Curriculum Vitae](https://1drv.ms/b/s!ApeTzZsfM1rOoWamQxfuGLxJsTaU?e=XXDDlB)
+- 📄 Know about my experiences [Download Curriculum Vitae](https://1drv.ms/b/s!ApeTzZsfM1rOoXzFzk1pO_Hn-scg?e=rxkbHH)
 
 - ⚡ Fun fact **I made a game and published on itch.io, here play it! [Earth Hurl Force](https://johngvc.itch.io/earth-hurl-force)**
 
